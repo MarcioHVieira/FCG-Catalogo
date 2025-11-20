@@ -1,0 +1,6 @@
+apiVersion: v2
+name: catalogo-api
+description: Helm chart para o microserviço Catalogo.Api
+type: application
+version: 0.1.0
+appVersion: "1.0"
